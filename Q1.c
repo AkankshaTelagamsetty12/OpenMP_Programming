@@ -1,6 +1,4 @@
-/* CSYE7105 HW1 Q1  
-   Please complete the data scope in the OpenMP parallel directive line
-   Totals 7 points*/
+
 #include <omp.h>
 #define N 1000
 #define N_THREADS 4
