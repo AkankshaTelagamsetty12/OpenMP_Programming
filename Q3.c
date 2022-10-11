@@ -1,6 +1,4 @@
-/* CSYE7105 HW1 Q3  */
-/* Please parallelize this program with OpenMP */
-/* Totals 18 points*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define NRA 1600                 /* number of rows in matrix A */
