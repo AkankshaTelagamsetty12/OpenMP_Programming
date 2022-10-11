@@ -1,6 +1,4 @@
-/* CSYE7105 HW1 Q2  */
-/* Please parallelize this program with OpenMP */
-/* Totals 15 points*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define N 10000
